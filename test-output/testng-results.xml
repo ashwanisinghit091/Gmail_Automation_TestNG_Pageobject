@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="235509" started-at="2019-08-11T14:13:14Z" finished-at="2019-08-11T14:17:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="235509" started-at="2019-08-11T14:13:14Z" finished-at="2019-08-11T14:17:09Z">
+      <class name="Gmail.Gmail_Login3">
+        <test-method status="PASS" signature="invoke_browser()[pri:0, instance:Gmail.Gmail_Login3@3d8c7aca]" name="invoke_browser" is-config="true" duration-ms="11216" started-at="2019-08-11T19:46:06Z" finished-at="2019-08-11T19:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_browser -->
+        <test-method status="PASS" signature="Gmaill3()[pri:0, instance:Gmail.Gmail_Login3@3d8c7aca]" name="Gmaill3" duration-ms="51463" started-at="2019-08-11T19:46:18Z" finished-at="2019-08-11T19:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmaill3 -->
+        <test-method status="PASS" signature="j()[pri:0, instance:Gmail.Gmail_Login3@3d8c7aca]" name="j" is-config="true" duration-ms="302" started-at="2019-08-11T19:47:09Z" finished-at="2019-08-11T19:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+      </class> <!-- Gmail.Gmail_Login3 -->
+      <class name="Gmail.Gamil_Login">
+        <test-method status="PASS" signature="invoke_browser()[pri:0, instance:Gmail.Gamil_Login@1a407d53]" name="invoke_browser" is-config="true" duration-ms="12292" started-at="2019-08-11T19:44:39Z" finished-at="2019-08-11T19:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_browser -->
+        <test-method status="PASS" signature="Gmail()[pri:0, instance:Gmail.Gamil_Login@1a407d53]" name="Gmail" duration-ms="72770" started-at="2019-08-11T19:44:51Z" finished-at="2019-08-11T19:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmail -->
+        <test-method status="PASS" signature="j()[pri:0, instance:Gmail.Gamil_Login@1a407d53]" name="j" is-config="true" duration-ms="2521" started-at="2019-08-11T19:46:04Z" finished-at="2019-08-11T19:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+      </class> <!-- Gmail.Gamil_Login -->
+      <class name="Gmail.Gmail_Login2">
+        <test-method status="PASS" signature="invoke_browser()[pri:0, instance:Gmail.Gmail_Login2@3498ed]" name="invoke_browser" is-config="true" duration-ms="13323" started-at="2019-08-11T19:43:14Z" finished-at="2019-08-11T19:43:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_browser -->
+        <test-method status="PASS" signature="Gmaill2()[pri:0, instance:Gmail.Gmail_Login2@3498ed]" name="Gmaill2" duration-ms="69059" started-at="2019-08-11T19:43:27Z" finished-at="2019-08-11T19:44:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gmaill2 -->
+        <test-method status="PASS" signature="j()[pri:0, instance:Gmail.Gmail_Login2@3498ed]" name="j" is-config="true" duration-ms="2527" started-at="2019-08-11T19:44:36Z" finished-at="2019-08-11T19:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j -->
+      </class> <!-- Gmail.Gmail_Login2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
